@@ -1,0 +1,4 @@
+To generate the "compile_commands.json" file and make clangd understand the
+project, build the project using:
+
+	$ bear -- make
